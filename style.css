@@ -1,0 +1,34 @@
+h1
+{
+width: 100%;
+margin-top: 0%;
+font-size: 23px !important;
+box-shadow: 5px 5px 5px rgb(7, 43, 221);
+
+}
+
+body
+{
+    text-align: center;
+}
+
+p
+{
+    font-size: 15px;
+    color: grey;
+}
+
+footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: rgb(31, 87, 130);
+color: aliceblue;
+}
+
+canvas
+{
+margin-top: 50px;
+margin-right: 20px;
+}
