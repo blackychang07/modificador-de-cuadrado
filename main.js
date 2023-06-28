@@ -42,6 +42,7 @@ function draw()
     fill("white")
     textSize(distancia/4)
     mitad = distancia/2
+    document.getElementById("tamaño").innerHTML = distancia + "px"
     text("😁", nariz_x+mitad-40, nariz_y+mitad+20)
 }
 
